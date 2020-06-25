@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>m1.jsp입니다.</h1>
+	<h2>2</h2>
 </body>
 </html>
