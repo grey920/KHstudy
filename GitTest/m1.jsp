@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>m1.jsp입니다.</h1>
-	<h2>3</h2>
+	<h2>원격master</h2>
 </body>
 </html>
