@@ -7,7 +7,7 @@
 <title>협의하에 수정한 제목</title>
 </head>
 <body>
-	<h1>m1.jsp입니다.</h1>
+	<h1>m.jsp입니다.</h1>
 	<h2>원격master</h2>
 </body>
 </html>
