@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>다른거로바꿀거</title>
+<title>협의하에 수정한 제목</title>
 </head>
 <body>
 	<h1>m1.jsp입니다.</h1>
